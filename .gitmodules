@@ -1,3 +1,15 @@
 [submodule "container-Audiophile-Shop"]
 	path = container-Audiophile-Shop
 	url = https://github.com/MarwenLabidi/container-Audiophile-Shop.git
+[submodule "header-Audiophile-Shop"]
+	path = header-Audiophile-Shop
+	url = https://github.com/MarwenLabidi/header-Audiophile-Shop.git
+[submodule "main-Audiophile-Shop"]
+	path = main-Audiophile-Shop
+	url = https://github.com/MarwenLabidi/main-Audiophile-Shop.git
+[submodule "footer-Audiophile-Shop"]
+	path = footer-Audiophile-Shop
+	url = https://github.com/MarwenLabidi/footer-Audiophile-Shop.git
+[submodule "navigation-Audiophile-Shop"]
+	path = navigation-Audiophile-Shop
+	url = https://github.com/MarwenLabidi/navigation-Audiophile-Shop.git
