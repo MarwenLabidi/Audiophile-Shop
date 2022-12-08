@@ -1,0 +1,17 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_UNEXPECTED_STORE",
+    "expectedStorePath": "/root/.local/share/pnpm/store/v3",
+    "actualStorePath": "/home/marwenlabidi/.local/share/pnpm/store/v3",
+    "modulesDir": "/home/marwenlabidi/node_modules",
+    "err": {
+      "name": "pnpm",
+      "message": "Unexpected store location",
+      "code": "ERR_PNPM_UNEXPECTED_STORE",
+      "stack": "pnpm: Unexpected store location\n    at checkCompatibility (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:94433:15)\n    at /home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:94959:44\n    at Array.map (<anonymous>)\n    at validateModules (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:94957:34)\n    at getContext (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:94851:34)\n    at async mutateModules (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:126032:19)\n    at async handler (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:127679:35)\n    at async /home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192593:21\n    at async run (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192567:34)\n    at async runPnpm (/home/marwenlabidi/.local/share/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192785:5)"
+    }
+  }
+}
